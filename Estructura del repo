@@ -1,0 +1,12 @@
+openpayments-payperuse/
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   └── db.sqlite   (ignorado en git)
+├── frontend/
+│   ├── index.html
+│   ├── app.js
+│   └── styles.css
+├── .gitignore
+├── README.md
+└── LICENSE   (opcional MIT)
