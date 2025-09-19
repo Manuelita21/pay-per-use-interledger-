@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+}
+form {
+  margin-bottom: 1rem;
+}
+#result, #status {
+  margin-top: 1rem;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  background: #f9f9f9;
+}
